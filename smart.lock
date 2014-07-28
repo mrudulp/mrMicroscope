@@ -1,0 +1,26 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "accounts-ui-bootstrap-dropdown": {},
+      "zones": {}
+    },
+    "packages": {
+      "accounts-ui-bootstrap-dropdown": {
+        "git": "https://github.com/erobit/meteor-accounts-ui-bootstrap-dropdown.git",
+        "tag": "v0.8.3",
+        "commit": "a7af8a52e4e74db020a69b158a8f992797b8b0b0"
+      },
+      "zones": {
+        "git": "https://github.com/meteorhacks/meteor-zones.git",
+        "tag": "v0.4.5",
+        "commit": "839bf8649df0f755f40406037763baa86a599e9f"
+      },
+      "inject-initial": {
+        "git": "https://github.com/gadicc/meteor-inject-initial.git",
+        "tag": "v0.0.10",
+        "commit": "19d24aea9cdc16963291dfd85a12d6eadf7b98aa"
+      }
+    }
+  }
+}
